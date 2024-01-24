@@ -51,7 +51,7 @@ function addone(num){
 }
 
 
-
+// scope in console and scope here are different
 //  addTwo(5)
 // const addTwo = function(num){
 //     return num + 2
